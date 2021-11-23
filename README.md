@@ -1,7 +1,38 @@
-# editor-output
+my-addon
+==============================================================================
 
-This is the collection of online editor / REPL boilerplate / starter projects
-that is automatically generated during an ember release.
+[Short description of the addon.]
 
-See https://github.com/ember-cli/ember-cli/blob/master/dev/update-output-repos.js
-for the script that updates the branches on this repo.
+
+Compatibility
+------------------------------------------------------------------------------
+
+* Ember.js v3.20 or above
+* Ember CLI v3.20 or above
+* Node.js v12 or above
+
+
+Installation
+------------------------------------------------------------------------------
+
+```
+ember install my-addon
+```
+
+
+Usage
+------------------------------------------------------------------------------
+
+[Longer description of how to use the addon in apps.]
+
+
+Contributing
+------------------------------------------------------------------------------
+
+See the [Contributing](CONTRIBUTING.md) guide for details.
+
+
+License
+------------------------------------------------------------------------------
+
+This project is licensed under the [MIT License](LICENSE.md).
