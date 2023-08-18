@@ -1,6 +1,6 @@
 /**
  * Type declarations for
- *    import config from 'my-app/config/environment'
+ *    import config from 'dummy/config/environment'
  */
 declare const config: {
   environment: string;
