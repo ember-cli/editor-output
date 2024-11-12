@@ -14,5 +14,8 @@
       "my-addon/test-support/*": ["addon-test-support/*"],
       "*": ["types/*"]
     }
-  }
+  },
+  "types": [
+    "ember-source/types"
+  ]
 }
