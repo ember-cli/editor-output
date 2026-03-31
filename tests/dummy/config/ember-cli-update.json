@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "1.0.0",
+  "packages": [
+    {
+      "name": "@ember-tooling/classic-build-addon-blueprint",
+      "version": "6.11.0",
+      "blueprints": [
+        {
+          "name": "@ember-tooling/classic-build-addon-blueprint",
+          "isBaseBlueprint": true,
+          "options": [
+            "--ci-provider=github"
+          ]
+        }
+      ]
+    }
+  ]
+}
